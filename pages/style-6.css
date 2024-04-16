@@ -1,0 +1,24 @@
+*{
+    font-family: 'Times New Roman';
+    background-color: rgb(227, 211, 211);
+    font-size: x-large;
+    
+   }
+   h1{
+       font-size: 80px;
+       color: rgb(134, 77, 214);
+   }
+   
+   div{
+       background-color: aliceblue;
+       text-align: center;
+       padding: 20px;
+       margin-bottom: 50px;
+   }
+   button{
+    background-color: rgb(145, 101, 206);
+    size: 20px;
+    height: 50px;
+    width: 350px;    
+}
+   
