@@ -1,0 +1,28 @@
+*{
+    font-family: 'Times New Roman';
+    background-color: rgb(227, 211, 211);
+    font-size: x-large;
+    
+   }
+   h1{
+       font-size: 80px;
+       color: rgb(134, 77, 214);
+   }
+   h2{
+     font-size: 30px;
+     background-color: aliceblue;
+   }
+
+   div{
+       background-color: aliceblue;
+       text-align: center;
+       padding: 20px;
+   }
+   button{
+       background-color: rgb(145, 101, 206);
+       color: aliceblue;
+       font-size: 60px;
+       box-sizing: content-box;
+
+   }
+   
